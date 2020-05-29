@@ -14,6 +14,7 @@
 	<modules>
 		<module>simplest</module>
 		<module>keycloak</module>
+		<module>keycloak.springsecurity</module>
 	</modules>
 
 	<groupId>springboot</groupId>
